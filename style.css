@@ -1,12 +1,29 @@
-* {
+html {
     box-sizing: border-box;
+    font-family: "Karla", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+h2,
+h4,
+p {
     margin: 0;
-    padding: 0;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
 }
 
 body {
     background-color: #ecf2f8;
     font-family: 'Barlow Semi Condensed', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
 #testimonial-grid-container {
@@ -120,7 +137,7 @@ body {
     }
 
     #testimonial-grid-container {
-        max-width: 1440px;
+        max-width: 1120px;
         margin: 0 auto;
     }
 
