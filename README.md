@@ -37,8 +37,8 @@ Here's my solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Click here](https://github.com/sayeedmunees/testimonials-grid-section)
-- Live Site URL: [Click here](https://sayeedmunees.github.io/testimonials-grid-section/)
+- Solution URL: [Click here](https://github.com/sayeedmunees/testimonials-grid-section-challenge)
+- Live Site URL: [Click here](https://sayeedmunees.github.io/testimonials-grid-section-challenge/)
 
 ## My process
 
