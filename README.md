@@ -70,7 +70,7 @@ In addition to utilizing Flexbox, I also explored the power of media queries to 
 
 - [Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7) - Got this challenge from Frontend Mentor, along with workfiles like required designs, icons and other files.
 
-- [MDN Docs](https://developer.mozilla.org/en-US/) - Here's another useful resourse, which is the MDN documentation itself. It helped me to find, understand and use code snipped that i didn't knew before.
+- [MDN Docs](https://developer.mozilla.org/en-US/) - Here's another useful resourse, which is the MDN web Docs itself. It helped me to find, understand and to use code snippets that i didn't knew before.
 
 
 ## Author
