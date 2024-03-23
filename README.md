@@ -37,8 +37,8 @@ Here's my solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Click here](https://your-solution-url.com)
-- Live Site URL: [Click here](https://your-live-site-url.com)
+- Solution URL: [Click here](https://github.com/sayeedmunees/testimonials-grid-section)
+- Live Site URL: [Click here](https://sayeedmunees.github.io/testimonials-grid-section/)
 
 ## My process
 
@@ -79,4 +79,4 @@ In addition to utilizing Flexbox, I also explored the power of media queries to 
 
 ## Acknowledgments
 
-I'd like to give a special shoutout to Full Stack Zack from YouTube, whose content served as a great inspiration and provided valuable assistance throughout this project. His insights and tutorials were instrumental in helping me navigate the challenges and find solutions. Thank you, Full Stack Zack!
+I'd like to give a special shoutout to Full Stack Zack from YouTube, whose content served as a great inspiration and provided valuable assistance throughout this project. His insights and tutorials were instrumental in helping me navigate the challenges and find solutions.
