@@ -101,6 +101,42 @@ body {
 
 @media (min-width: 576px) {
 
+    #testimonial-grid-container,
+    #main-left,
+    #top,
+    #bottom {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #top,
+    #bottom {
+        flex-basis: 50%;
+        flex-direction: row;
+    }
+
+    #testimonial-1,
+    #testimonial-4 {
+        flex-basis: 65%;
+    }
+
+    #testimonial-2,
+    #testimonial-3 {
+        flex-basis: 35%;
+    }
+
+    #testimonial-grid-container {
+        max-width: 1120px;
+        margin: 0 auto;
+    }
+
+    #main-left .grid-item {
+        margin-right: 15px;
+    }
+}
+
+@media (min-width: 975px) {
+
     body {
         background-color: #ecf2f8;
         font-family: 'Barlow Semi Condensed', sans-serif;
@@ -110,12 +146,12 @@ body {
         height: 100vh;
     }
 
-
     #testimonial-grid-container,
     #main-left,
     #top,
     #bottom {
         display: flex;
+        flex-direction: row;
     }
 
     #top,
