@@ -1,6 +1,6 @@
-# Testimonials grid section  Challenge - solution
+# Testimonials grid section Challenge - solution
 
-Here's my solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Utilizing Flexbox and media queries, I developed a responsive grid layout that elegantly showcases testimonials across various screen sizes. 
+Here's my solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Utilizing Flexbox and media queries, I developed a responsive grid layout that elegantly showcases testimonials across various screen sizes.
 
 ## Table of contents
 
@@ -19,8 +19,7 @@ Here's my solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### The challenge
 
-
-- Develop the given testimonial grid section design. 
+- Develop the given testimonial grid section design.
 
 - Users should be able to view the optimal layout for the site depending on their device's screen size.
 
@@ -34,10 +33,10 @@ Here's my solution to the [Testimonials grid section challenge on Frontend Mento
 
 ![Design preview of the Testimonials grid section for desktop](./screenshots/Screenshot-mobile-design.png)
 
-
 ### Links
 
 - Solution URL: [Click here](https://github.com/sayeedmunees/testimonials-grid-section-challenge)
+
 - Live Site URL: [Click here](https://sayeedmunees.github.io/testimonials-grid-section-challenge/)
 
 ## My process
@@ -54,15 +53,14 @@ Here's my solution to the [Testimonials grid section challenge on Frontend Mento
 In addition to utilizing Flexbox, I also explored the power of media queries to further enhance the responsiveness of my web design across various devices. Media queries allowed me to tailor specific CSS rules based on the characteristics of the user's device, such as screen width, height, and orientation. Here's an example showcasing the use of flexbox and media queries:
 
 ```css
-
 @media (min-width: 576px) {
-   .header {
+  .header {
     display: flex;
     align-items: center;
     margin-bottom: 20px;
     position: relative;
     z-index: 3;
-    }
+  }
 }
 ```
 
@@ -71,7 +69,6 @@ In addition to utilizing Flexbox, I also explored the power of media queries to 
 - [Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7) - Got this challenge from Frontend Mentor, along with workfiles like required designs, icons and other files.
 
 - [MDN Docs](https://developer.mozilla.org/en-US/) - Here's another useful resourse, which is the MDN web Docs itself. It helped me to find, understand and to use code snippets that i didn't knew before.
-
 
 ## Author
 
